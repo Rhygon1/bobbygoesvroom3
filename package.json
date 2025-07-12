@@ -1,0 +1,16 @@
+{
+  "name": "vshacks25",
+  "version": "1.0.0",
+  "description": "Vanessa Qian and Joanne Lowe's submission for VS Hacks 2025!\r School: Fraser Heights Secondary School",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
